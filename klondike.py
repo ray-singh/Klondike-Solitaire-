@@ -1,5 +1,4 @@
     ###########################################################
-    #  Computer Project #10
     #
     #  Algorithm
     #    prompt for an option
