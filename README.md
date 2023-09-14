@@ -1,5 +1,5 @@
 # Klondike Solitaire #
-![solitaire](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GNOME_Aisleriot_Solitaire_%28cropped%29.png/440px-GNOME_Aisleriot_Solitaire_%28cropped%29.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GNOME_Aisleriot_Solitaire_%28cropped%29.png/440px-GNOME_Aisleriot_Solitaire_%28cropped%29.png)
 
 ## Introduction ##
 Klondike is one of the most popular solitaire card games. The game is played by one person with a standard 52-card deck of playing cards. The goal of the game is to build four foundations (one for each of the four suits), where all of the cards in each foundation are in order from Ace to King (with the Ace on the bottom).
@@ -69,3 +69,6 @@ The program will repeatedly display the current state of the game and prompt the
 The program will detect, report and recover from invalid commands. None of the data structures representing the foundations, tableau, stock or waste will be altered by an invalid command.
 
 Enjoy!
+
+## Acknowledgements ##
+The image used in this file belongs to Wikepedia. 
