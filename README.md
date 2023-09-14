@@ -1,4 +1,5 @@
 # Klondike Solitaire #
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKlondike_%2528solitaire%2529&psig=AOvVaw3XR0iCsMrJShx59sODyWIB&ust=1694817065255000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjO6tqTq4EDFQAAAAAdAAAAABAE)
 
 ## Introduction ##
 Klondike is one of the most popular solitaire card games. The game is played by one person with a standard 52-card deck of playing cards. The goal of the game is to build four foundations (one for each of the four suits), where all of the cards in each foundation are in order from Ace to King (with the Ace on the bottom).
